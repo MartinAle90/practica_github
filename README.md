@@ -1,3 +1,6 @@
 # practica_github
 Ejercicio de GitHub
-¡Hola! Soy Vane
+
+Katherine ALvarez <3
+
+ï¿½Hola! Soy Vane
